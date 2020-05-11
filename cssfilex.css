@@ -1,0 +1,161 @@
+h1{
+  text-align:center;
+  font-family:Impact, Charcoal, sans-serif;
+ color:#FFA500;
+	text-shadow:
+		-2px -2px 2px #000,
+		1px -1px 0 #000,
+		-2px 2px 0 #000,
+		1px 2px 0 #000;
+  font-size:40px;
+  position:absolute;
+  top:40px;
+  left:200px;
+}
+.img1{
+  width:150px;
+  position:absolute;
+  top:40px;
+  left:30px;
+}
+.navbar{
+ background-color:#483D8B;
+ width:100%;
+ height:200px;
+}
+h2{
+  text-align:center;
+  font-size:30px;
+ 
+   font-family:Impact, Charcoal, sans-serif;
+  }
+.h2div{
+  background-color:#FFA500;
+  width:50%;
+  position:absolute;
+  left:400px;
+  height:90px;
+}
+.buttons{
+  width:100px;
+  height:100px;
+  background-color:#B0C4DE;
+  padding:15px 0 15px 0;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  font-size:30px;
+  }
+#button1{
+  position:absolute;
+  left:500px;
+}
+#button2{
+  position:absolute;
+  left:650px;
+}
+#button3{
+  position:absolute;
+  left:800px;
+}
+#button4{
+  position:absolute;
+  left:950px;
+}
+#button5{
+  position:absolute;
+  left:500px; 
+}
+#button6{
+  position:absolute;
+  left:650px;
+}
+#button7{
+  position:absolute;
+  left:800px; 
+}
+#button8{
+  position:absolute;
+  left:950px; 
+}
+#button9{
+ position:absolute;
+  left:500px;  
+}
+#button10{
+   position:absolute;
+  left:650px;
+}
+#button11{
+   position:absolute;
+  left:800px; 
+}
+#button12{
+ position:absolute;
+  left:950px;   
+}
+#currentoperation{
+  outline:2px solid black;
+  position:absolute;
+  text-align:center;
+  left:45%;
+  height:200px;
+  width:200px;
+  background-color:#FFA500;
+}
+input {
+ width: 30%;
+   padding: 12px 20px;
+  margin: 8px 0;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+#end{
+  width:100%;
+  height:180px;
+  background-color:#696969;
+  text-align:center;
+  color:white;
+  
+}
+label{
+  width: 13%;
+   padding: 12px 20px;
+  margin: 8px 0;
+  border: 2px solid black;
+  box-sizing: border-box; 
+  position:absolute;
+  left:45%;
+ text-size:120%;
+}
+#footer{
+text-align:left;
+ position:absolute;
+ top:1000px; 
+  left:70px;
+  color:white;
+}
+#tag{
+  font-size: 30px;
+   font-family:Impact, Charcoal, sans-serif;
+  text-shadow:
+		-2px -2px 2px #000,
+		1px -1px 0 #000,
+		-2px 2px 0 #000,
+		1px 2px 0 #000;
+  opacity:0.8;
+}
+#disc{
+  font-size:15px;
+  position:absolute;
+  top:80px;
+width:150%;
+  opacity:0.6;
+}
+#feedback{
+  float:right;
+  position:absolute;
+  right:70px;
+  top:1050px;
+  text-align:right;
+  color:white;
+  opacity:0.6;
+}
